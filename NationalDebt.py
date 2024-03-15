@@ -6,7 +6,7 @@ import requests
 st.markdown('''
 # U.S. National Debt
 
-- Source Code:
+- Source Code: https://github.com/steven-ngo/US-National-Debt
 - Language: `Python`
 - Libraries: `streamlit`
 ''')
